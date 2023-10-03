@@ -1,5 +1,5 @@
 {
-  "name": "google/auth",
+  "name": "google/auth-hycom",
   "type": "library",
   "description": "Google Auth Library for PHP",
   "keywords": ["google", "oauth2", "authentication"],
